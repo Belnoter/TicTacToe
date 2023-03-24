@@ -30,7 +30,7 @@ public class Main {
                             } else {
                                 System.out.println("Position full, try another slot");
                                 drawBoard(board);
-                                gameState = "Plr";
+                                gameState = "Player";
                             }
                             break;
                         case 2:
